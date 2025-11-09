@@ -28,13 +28,12 @@ To design a three-page Power BI dashboard that visualizes customer behavior, acc
 - Interactive Dashboard Design
 
 ## 📸 Dashboard Previews
-| Customer Overview | Churn Analysis | Product Insights |
-|--------------------|----------------|------------------|
-| ![Customer Overview](<img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/b130b439-fef7-44d5-9955-df91c2f2c8d9" />
-) | ![Churn Analysis](<img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/425424bb-fb6d-4225-9814-7ad853b439b9" />
-) | ![Product Insights](
+
+![Customer Overview](<img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/b130b439-fef7-44d5-9955-df91c2f2c8d9" />
+) ![Churn Analysis](<img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/425424bb-fb6d-4225-9814-7ad853b439b9" />
+) ![Product Insights](
 <img width="874" height="499" alt="image" src="https://github.com/user-attachments/assets/6ba43ee3-f707-44d1-bc5b-2baced7e9b09" />
-) |
+) 
 
 ## 📂 Download the Dashboard
 You can download the `.pbix` file from this repository and open it in Power BI Desktop.
